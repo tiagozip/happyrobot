@@ -175,6 +175,7 @@ Commonly respond with "uwu" at the end of your reply.`,
 
 Valid Links Examples:
 - https://tiagorangel.com
+- https://tiago.zip
 - https://google.com
 - https://opuadm.com
 - https://forum.opuadm.com
